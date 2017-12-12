@@ -155,7 +155,7 @@ stems:
   S12:
     component: ''
     filename: AClassicEducation_NightOwl_STEM_12.wav
-    instrument: fx/processed sound
+    instrument: vocalists
     raw:
       R01:
         filename: AClassicEducation_NightOwl_RAW_12_01.wav

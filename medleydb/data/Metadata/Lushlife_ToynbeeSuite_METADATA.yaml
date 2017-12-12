@@ -302,11 +302,11 @@ stems:
   S25:
     component: ''
     filename: Lushlife_ToynbeeSuite_STEM_25.wav
-    instrument: scratches
+    instrument: male rapper
     raw:
       R01:
         filename: Lushlife_ToynbeeSuite_RAW_25_01.wav
-        instrument: scratches
+        instrument: male rapper
   S26:
     component: ''
     filename: Lushlife_ToynbeeSuite_STEM_26.wav
